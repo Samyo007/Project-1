@@ -1,0 +1,126 @@
+/* body{
+    font-size: 30px;
+}
+p{
+    font-size: 1em;
+    color:green;
+    border: 10px solid purple;
+}
+#para2{
+    font-size: 2vh;
+    color:red;
+}
+.para3{
+    font-size: 10px;
+    color:purple;
+    border: none;
+}
+.border{
+    
+    border: 5px dotted red;
+    color:purple;
+}
+.border2{
+    border: 5px solid black;
+    border-radius: 2px;
+
+}
+.margin{
+    /*margin-top: 10px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    margin-left: 40px;*/
+
+    /*margin: 100px;*/
+    /*all the 4 sides are same*/
+
+    /*margin: 100px 200px;
+    top-bottom left-right*/
+
+    /*margin: 100px 200px 300px 400px;*/
+    /*top right bottom left*/
+
+    /*padding: 100px;*/
+    
+    /*padding-left: 100px;
+    padding-right: 200px;
+    padding-top: 300px;
+    padding-bottom: 200px;
+
+    padding: 100px 200px 300px 400px;
+
+    background-color: darkcyan;
+
+    background-image: url("https://krs.kiit.ac.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FKRS.31bc350a.png&w=256&q=75&dpl=dpl_9ygtRsXYnSsz9qXnT8WP9pTicCTQ");
+
+} */
+
+ /* .static{
+    position: static;
+    background-color: green;
+    width: 300px;
+    height: 300px;
+    font-size: 20px;
+}
+.relative{
+    position: relative;
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    font-size: 20px;
+    left: 257px;
+}
+.sticky{
+    position: sticky;
+    background-color: orange;
+    width: 300px;
+    height: 300px;
+    font-size: 20px;
+    top: 0px;
+    left: 400px;
+
+}
+.fixed{
+    position: fixed;
+    background-color: yellow;
+    width: 100px;
+    height: 200px;
+    font-size: 20px;
+    left: 1000px;
+    top: 300px;
+}
+.parent{
+    position: relative;
+    background-color: aqua;
+    width: 500px;
+    height: 500px;
+    font-size: 20px;
+    left: 200px;
+}
+.absolute{
+    position: absolute;
+    background-color: red;
+    font-size: 20px;
+    height: 300px;
+    width: 300px;
+    right: 200px;
+}
+.absolute2{
+    position: absolute;
+    background-color: darkblue;
+    font-size: 20px;
+    height: 200px;
+    width: 200px;
+    left: 50px;
+}  */
+
+.display-inline{
+    display: inline;
+}
+.display-block{
+    display:block;
+}
+
+.display-visibility{
+    display:none;
+}
